@@ -7,7 +7,7 @@ Product Designer | Growth Engineer
 ----------------------------------
 
 * 🌍  I'm based in Maryland
-* 🖥️  See my portfolio at [Portfolio](<a href="https://www.sam-almohanna.com" target="_blank" rel="noreferrer">)
+* 🖥️  See my portfolio at <a href="https://www.sam-almohanna.com" target="_blank" rel="noreferrer">Portfolio</a>
 
 ### Skills
 
