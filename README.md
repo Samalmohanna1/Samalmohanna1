@@ -1,6 +1,6 @@
 ### Heyo 👋 I'm Sam
 
-<img src="https://github.com/Samalmohanna1/Samalmohanna1/assets/93617973/8998aa1f-26aa-4176-b0f5-2359a8b8e30c" width="200" alt="Your friendly digital success partner."/>
+<img src="https://github.com/Samalmohanna1/Samalmohanna1/assets/93617973/c5788088-cf5a-4e2a-a22c-0a772cce7409" alt="Your friendly digital success partner."/>
 
 <!--
 **Samalmohanna1/Samalmohanna1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
