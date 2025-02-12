@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <img src="https://github.com/Samalmohanna1/Samalmohanna1/assets/93617973/c5788088-cf5a-4e2a-a22c-0a772cce7409" alt="Your friendly digital success partner."/>
 
-Product Designer | Growth Engineer
+Product Designer | Creative Developer
 ----------------------------------
 
 * 🌍  Based in Maryland
