@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Sam
 ===========================================================================================================================
 
-<img width="1584" height="396" alt="Your friendly digital success partner" src="https://github.com/user-attachments/assets/01adf910-6836-4f35-876f-b4abac6bcc66" />
+<img width="846" height="200" alt="Your friendly digital success partner" src="https://github.com/user-attachments/assets/51a7c534-3633-4d03-a427-c599114a978f" />
 
 Product Designer | Creative Developer
 ----------------------------------
